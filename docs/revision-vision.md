@@ -1,10 +1,10 @@
 # Revisión de la visión - Tutorías U 
 ## Checklist de revisión
--[] El problema no impone una solución tecnológica.
--[] El usuario primario esta definido de manera específica. 
--[] El valor prometido es observable. 
--[] Se incluyen las 4 restricciones conocidas. 
--[] Se indica la fuente - estado de la evidencia.
+-[X] El problema no impone una solución tecnológica.
+-[X] El usuario primario esta definido de manera específica. 
+-[X] El valor prometido es observable. 
+-[X] Se incluyen las 4 restricciones conocidas. 
+-[X] Se indica la fuente - estado de la evidencia.
 
 ## Hallazgos 
 Agregar que la evidencia inicial está pendiente de validación.
