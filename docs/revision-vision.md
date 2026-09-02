@@ -1,4 +1,4 @@
-# Revisión de la visión - Tutorías U 
+# Revisión de la visión - Tutorías 
 ## Checklist de revisión
 -[X] El problema no impone una solución tecnológica.
 -[X] El usuario primario esta definido de manera específica. 
