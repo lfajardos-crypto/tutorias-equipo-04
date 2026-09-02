@@ -17,4 +17,4 @@ Facilitar el acceso a la información y reserva de tutorías.
   ## Criterio de aceptación del artefacto.
   La visión debe ser clara y cumplir con las restricciones establecidas.
   ## Fuente - Estado de la evidencia.
-  Información inicial proporcianada en la actividad. 
+  Información inicial proporcianada en la actividad. Pendiente de validación.
