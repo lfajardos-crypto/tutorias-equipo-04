@@ -1,4 +1,4 @@
-# Visión del producto - Tutorias U 
+# Visión del producto - Tutorias 
 ## Propósito
 Facilitar la reserva de tutorías universatirias.
 ## Problema: 
